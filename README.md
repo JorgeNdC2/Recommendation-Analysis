@@ -1,7 +1,7 @@
 # Recommendation Analysis
 
 ## Description
-[Brief description of the project and its purpose]
+The goal of this project is to perform a recommendation analysis on a dataset of women's clothing reviews. The objective will be to model whether a particular piece of clothing is recommended or not based on the reviews it has received.
 
 ## Features
 - [Feature 1]
@@ -10,7 +10,16 @@
 - ...
 
 ## Installation
-[Instructions for installing or setting up the project]
+Creating a new virtual environment is highly recommended.
+
+Python 3.11 is a must.
+
+For installing the packages just run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Usage
 [Instructions on how to use the project]
