@@ -20,7 +20,12 @@ pip install -r requirements.txt
 ## Usage
 Just run the the notebook after installing all the packages. The two last models could take a couple of minutes.
 
-With the aim of having a good time and getting a glimpse of possible real-world applications, there is a Streamlit app to predict reviews entered by the user. 
+With the aim of having a good time and trying something new I tried to develop a Streamlit app to predict reviews entered by the user.
+
+
+Note: The Streamlit application was not intended as part of the practice. I simply wanted to try out the library and decided to leave it here, but it should not be evaluated as part of the assignment.
+
+
 Just run the following command:
 
 ```bash
